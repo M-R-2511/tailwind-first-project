@@ -109,9 +109,9 @@ function App() {
               </div>
             </div>
             {/* card  */}
-            <div className="card before:bg-rose-700">
+            <div className="card before:bg-rose-600">
               <div className="flex items-center justify-center gap-1 pb-6">
-                <span className="text-facebook">
+                <span className="text-rose-600">
                   <AiFillYoutube size={22} />
                 </span>
                 <span className="text-sm">@abcd</span>
@@ -122,7 +122,7 @@ function App() {
               <p className=" font-medium uppercase tracking-[0.3em]">
                 Followers
               </p>
-              <div className=" font-semibold flex items-center justify-center gap-1 pt-6 text-rose-700">
+              <div className=" font-semibold flex items-center justify-center gap-1 pt-6 text-rose-600">
                 <span>
                   <RiArrowDownSFill />
                 </span>
